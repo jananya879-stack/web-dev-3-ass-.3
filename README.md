@@ -1,15 +1,15 @@
-# 📦 Inventory Management REST API
+#  Inventory Management REST API
 ### Assignment 3 | Backend Development
 
 A backend application designed to maintain and manage product inventory with the help of RESTful APIs. It provides product operations, stock control, advanced data queries and inventory summaries.
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of this assignment is to develop a product inventory system using Node.js, Express.js and MongoDB. The application allows users to manage product information and monitor available stock through API endpoints.
 
-## 🛠️ Development Stack
+##  Development Stack
 
 | Technology | Purpose |
 |---|---|
@@ -22,7 +22,7 @@ The main objective of this assignment is to develop a product inventory system u
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 Follow these instructions to run the application locally.
 
@@ -61,7 +61,7 @@ Use Postman or Thunder Client to send API requests.
 
 ---
 
-## 🚀 Implemented Modules
+##  Implemented Modules
 
 ### 1. Product Operations
 
@@ -107,7 +107,7 @@ MongoDB aggregation is used to generate:
 
 ---
 
-## 📸 Application Output
+##  Application Output
 
 The following screenshots demonstrate the API execution and testing process.
 
@@ -155,7 +155,7 @@ The following screenshots demonstrate the API execution and testing process.
 
 ---
 
-## 📌 Final Remarks
+##  Final Remarks
 
 This assignment provided practical experience in backend application development, database integration and REST API implementation.
 
